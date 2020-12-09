@@ -6,5 +6,6 @@
 	  </SingleInt>
 	  <SingleInt state="Error" value="1">
 	  Error
+	  </SingleInt>	  
     </Lookups>
   </ValueLookup>
