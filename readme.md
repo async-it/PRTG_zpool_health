@@ -1,4 +1,4 @@
-# PRTG Zpool / ZFS Monitoring
+# PRTG Zpool Health Monitoring
 PRTG Script to monitor ZPool health.
 
 # USE:
